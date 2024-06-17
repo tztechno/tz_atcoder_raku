@@ -20,7 +20,8 @@
 ```
 ---
 ```
-
+my ($x) = prompt.words».Int;
+my $n = prompt.words».Int[0];
 ```
 ---
 ```
